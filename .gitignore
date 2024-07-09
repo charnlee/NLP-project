@@ -1,0 +1,4 @@
+/model/finetune_model
+/data/test_dataset.xlsx
+/data/train_dataset.xlsx
+/model/bert-base-chinese/model.safetensors
